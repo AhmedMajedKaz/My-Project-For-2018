@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleSetting", "ExampleSetting\ExampleSetting.csproj", "{4CAEC97B-6FB5-4302-AAF2-313719E9268F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeech", "TextToSpeech\TextToSpeech.csproj", "{A72CEC38-E4F9-4233-AD96-0B9541EC76B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "Email\Email.csproj", "{D77D8E01-B109-46EF-9778-C0C9DBF2844C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAEC97B-6FB5-4302-AAF2-313719E9268F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAEC97B-6FB5-4302-AAF2-313719E9268F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAEC97B-6FB5-4302-AAF2-313719E9268F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAEC97B-6FB5-4302-AAF2-313719E9268F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72CEC38-E4F9-4233-AD96-0B9541EC76B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72CEC38-E4F9-4233-AD96-0B9541EC76B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72CEC38-E4F9-4233-AD96-0B9541EC76B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72CEC38-E4F9-4233-AD96-0B9541EC76B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77D8E01-B109-46EF-9778-C0C9DBF2844C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77D8E01-B109-46EF-9778-C0C9DBF2844C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77D8E01-B109-46EF-9778-C0C9DBF2844C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77D8E01-B109-46EF-9778-C0C9DBF2844C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D413BF6-EF93-40C0-A230-E475D7FD3B0D}
+	EndGlobalSection
+EndGlobal

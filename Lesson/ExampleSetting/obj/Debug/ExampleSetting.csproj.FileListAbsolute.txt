@@ -1,0 +1,10 @@
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\bin\Debug\ExampleSetting.exe.config
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\bin\Debug\ExampleSetting.exe
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\bin\Debug\ExampleSetting.pdb
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\obj\Debug\ExampleSetting.csprojResolveAssemblyReference.cache
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\obj\Debug\ExampleSetting.Form1.resources
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\obj\Debug\ExampleSetting.Properties.Resources.resources
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\obj\Debug\ExampleSetting.csproj.GenerateResource.Cache
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\obj\Debug\ExampleSetting.csproj.CoreCompileInputs.cache
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\obj\Debug\ExampleSetting.exe
+c:\users\iraqlaptop\source\repos\Lesson\ExampleSetting\obj\Debug\ExampleSetting.pdb

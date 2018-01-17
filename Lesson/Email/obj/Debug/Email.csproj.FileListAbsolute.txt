@@ -1,0 +1,10 @@
+C:\Users\iraqlaptop\source\repos\Lesson\Email\bin\Debug\Email.exe.config
+C:\Users\iraqlaptop\source\repos\Lesson\Email\bin\Debug\Email.exe
+C:\Users\iraqlaptop\source\repos\Lesson\Email\bin\Debug\Email.pdb
+C:\Users\iraqlaptop\source\repos\Lesson\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+C:\Users\iraqlaptop\source\repos\Lesson\Email\obj\Debug\Email.Form1.resources
+C:\Users\iraqlaptop\source\repos\Lesson\Email\obj\Debug\Email.Properties.Resources.resources
+C:\Users\iraqlaptop\source\repos\Lesson\Email\obj\Debug\Email.csproj.GenerateResource.Cache
+C:\Users\iraqlaptop\source\repos\Lesson\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\Users\iraqlaptop\source\repos\Lesson\Email\obj\Debug\Email.exe
+C:\Users\iraqlaptop\source\repos\Lesson\Email\obj\Debug\Email.pdb

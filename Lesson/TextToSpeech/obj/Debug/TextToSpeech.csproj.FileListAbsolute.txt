@@ -1,0 +1,10 @@
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\bin\Debug\TextToSpeech.exe
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\bin\Debug\TextToSpeech.pdb
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\obj\Debug\TextToSpeech.exe
+c:\users\iraqlaptop\source\repos\Lesson\TextToSpeech\obj\Debug\TextToSpeech.pdb
