@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             this.datas = new System.Windows.Forms.DataGridView();
+            this.asd = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.asda = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.name = new Bunifu.Framework.UI.BunifuMetroTextbox();
             this.grade = new Bunifu.Framework.UI.BunifuMetroTextbox();
             this.label1 = new System.Windows.Forms.Label();
@@ -42,9 +45,6 @@
             this.upd = new System.Windows.Forms.Button();
             this.del = new System.Windows.Forms.Button();
             this.picture = new System.Windows.Forms.PictureBox();
-            this.asd = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.asda = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.datas)).BeginInit();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picture)).BeginInit();
@@ -76,6 +76,27 @@
             this.datas.TabIndex = 0;
             this.datas.TabStop = false;
             this.datas.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.datas_CellClick);
+            // 
+            // asd
+            // 
+            this.asd.HeaderText = "Name";
+            this.asd.Name = "asd";
+            this.asd.ReadOnly = true;
+            this.asd.Width = 210;
+            // 
+            // id
+            // 
+            this.id.HeaderText = "Id";
+            this.id.Name = "id";
+            this.id.ReadOnly = true;
+            this.id.Visible = false;
+            // 
+            // asda
+            // 
+            this.asda.HeaderText = "Grade";
+            this.asda.Name = "asda";
+            this.asda.ReadOnly = true;
+            this.asda.Width = 210;
             // 
             // name
             // 
@@ -255,27 +276,7 @@
             this.picture.Size = new System.Drawing.Size(230, 220);
             this.picture.TabIndex = 5;
             this.picture.TabStop = false;
-            // 
-            // asd
-            // 
-            this.asd.HeaderText = "Name";
-            this.asd.Name = "asd";
-            this.asd.ReadOnly = true;
-            this.asd.Width = 210;
-            // 
-            // id
-            // 
-            this.id.HeaderText = "Id";
-            this.id.Name = "id";
-            this.id.ReadOnly = true;
-            this.id.Visible = false;
-            // 
-            // asda
-            // 
-            this.asda.HeaderText = "Grade";
-            this.asda.Name = "asda";
-            this.asda.ReadOnly = true;
-            this.asda.Width = 210;
+            this.picture.Click += new System.EventHandler(this.picture_Click);
             // 
             // Main
             // 

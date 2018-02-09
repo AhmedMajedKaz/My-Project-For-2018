@@ -252,6 +252,11 @@ namespace Proto
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void picture_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     class user
     {
